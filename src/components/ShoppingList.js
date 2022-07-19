@@ -32,7 +32,7 @@ function ShoppingList() {
     });
     setItems(updatedItems);
   }
-  console.log("In ShoppingCart:", updatedItem);
+  //console.log("In ShoppingCart:", updatedItem);
 
   //Adding handle function
   function handleAddItem(newItem) {
